@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root {
+  font: inherit;
+  vertical-align: baseline;
+  font-family: "Verdana", sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html {
+  background-color: #eeeeee;
+}
+
+.link {
+  color: #116699;
+  font-size: 13.2px;
+}
+
+.link:hover {
+  color: #c61a1a;
+  text-decoration: underline;
+}
+
+.background_opacity {
+  background: url(./assets/images/ui-bg_modal.png);
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5 {
+    @apply font-trebuchet;
+    @apply font-bold;
+  }
+}

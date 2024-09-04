@@ -1,0 +1,20 @@
+{
+  "title": "Hoạt động",
+  "from": "Từ",
+  "to": "tới",
+  "button_apply": {
+    "apply": "Áp dụng",
+    "previous": "Trước",
+    "next": "Sau"
+  },
+  "other_format_notify": "Định dạng khác của trang này:",
+  "activity_options": {
+    "issues": "Vấn đề",
+    "changesets": "Thay đổi",
+    "documents": "Tài liệu",
+    "files": "Tập tin",
+    "wiki_edits": "Thay đổi wiki",
+    "spent_time": "Thời gian đã sử dụng"
+  },
+  "no_data_notify": "Chưa có thông tin gì"
+}

@@ -1,0 +1,28 @@
+td {
+  border: 1px solid #eee;
+  padding: 3px 2px;
+  box-sizing: border-box;
+}
+
+th {
+  background-color: #eee;
+  color: #505050;
+  font-size: 12px;
+  padding: 4px;
+}
+
+th:first-child,
+td:first-child {
+  width: 22px;
+  padding: 4px;
+}
+
+th:not(:first-child),
+td:not(:first-child) {
+  width: calc((100% - 22px) / 2);
+}
+
+.card:hover .pop-up {
+  opacity: 1;
+  visibility: visible;
+}

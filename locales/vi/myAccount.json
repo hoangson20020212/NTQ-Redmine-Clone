@@ -1,0 +1,34 @@
+{
+  "title": "Cá nhân",
+  "change_password": "Đổi mật mã",
+  "information": {
+    "title": "Thông tin",
+    "first_name": "Tên đệm và Tên",
+    "last_name": "Họ",
+    "email": "Email",
+    "language": "Ngôn ngữ"
+  },
+  "button_save": "Lưu",
+  "email_notification": {
+    "title": "Thông báo qua email",
+    "get_notified": "Đừng gửi email về các thay đổi do chính tôi thực hiện"
+  },
+  "preferences": {
+    "title": "Cấu hình",
+    "hide_email": "Không hiện email của tôi",
+    "time_zone": "Múi giờ",
+    "display_comments": "Liệt kê bình luận",
+    "warn_when_leave": "Cảnh báo tôi khi rời một trang có các nội dung chưa lưu"
+  },
+  "side_bar": {
+    "title": "Cá nhân",
+    "login": "Đăng nhập: ",
+    "created": "Tạo: ",
+    "access_key_atom": "Khoá truy cập Atom",
+    "api_key_desc": "Mã chứng thực Atom được tạo ra cách đây khoảng 1 tháng (<Link1>Tạo lại</Link1>)",
+    "access_key_api": "Khoá truy cập API",
+    "button_show": "Hiện",
+    "atom_key_desc": "Khoá truy cập API đựơc tạo cách đây khoảng 1 tháng. Khóa này được dùng cho eDesignLab Client. (<Link1>Tạo lại</Link1>)"
+  },
+  "updated_successfully": "Cập nhật tài khoản thành công."
+}

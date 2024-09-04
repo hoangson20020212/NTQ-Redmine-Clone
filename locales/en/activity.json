@@ -1,0 +1,20 @@
+{
+  "title": "Activity",
+  "from": "From",
+  "to": "to",
+  "button_apply": {
+    "apply": "Apply",
+    "previous": "« Previous",
+    "next": "Next »"
+  },
+  "other_format_notify": "Also available in:",
+  "activity_options": {
+    "issues": "Issues",
+    "changesets": "Changesets",
+    "documents": "Documents",
+    "files": "Files",
+    "wiki_edits": "Wiki edits",
+    "spent_time": "Spent time"
+  },
+  "no_data_notify": "No data to display"
+}

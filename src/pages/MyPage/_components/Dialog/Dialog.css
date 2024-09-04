@@ -1,0 +1,33 @@
+.title_dialog {
+  background: #759fcf url("../../../../assets/images/background_dialogIssue.png") center center repeat-x;
+}
+
+.icon_close {
+  background-image: url("../../../../assets/images/ui-icons.png");
+  background-position: -95px -127px;
+  background-size: 256px 240px;
+  width: 16px;
+  height: 16px;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+
+.link {
+  color: #116699;
+  font-size: 13.2px;
+}
+
+.link:hover {
+  color: #c61a1a;
+  text-decoration: underline;
+}
+
+.wrapper {
+  position: absolute;
+  transition: scale 1s ease;
+  scale: 1 1;
+}
+
+.wrapper.disappear {
+  scale: 1 0;
+}

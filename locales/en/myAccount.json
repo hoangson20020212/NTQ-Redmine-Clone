@@ -1,0 +1,34 @@
+{
+  "title": "My account",
+  "change_password": "Change password",
+  "information": {
+    "title": "Information",
+    "first_name": "First name",
+    "last_name": "Last name",
+    "email": "Email",
+    "language": "Language"
+  },
+  "button_save": "Save",
+  "email_notification": {
+    "title": "Email notifications",
+    "get_notified": "I don't want to be notified of changes that I make myself"
+  },
+  "preferences": {
+    "title": "Preferences",
+    "hide_email": "Hide my email address",
+    "time_zone": "Time zone",
+    "display_comments": "Display comments",
+    "warn_when_leave": "Warn me when leaving a page with unsaved text"
+  },
+  "side_bar": {
+    "title": "My account",
+    "login": "Login: ",
+    "created": "Created: ",
+    "access_key_atom": "Atom access key",
+    "api_key_desc": "Atom access key created about 1 month ago (<Link1>Reset</Link1>)",
+    "access_key_api": "API access key",
+    "button_show": "Show",
+    "atom_key_desc": "API access key created about 1 month ago (<Link1>Reset</Link1>)"
+  },
+  "updated_successfully": "Account was successfully updated."
+}

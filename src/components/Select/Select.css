@@ -1,0 +1,9 @@
+select[size] option {
+  background-color: #fff;
+  border-bottom: 1px dotted #d7d7d7;
+  padding: 1px px;
+}
+
+select[size] option:hover {
+  background-color: #dcdcdc;
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Tạo vấn đề mới",
+  "label": {
+    "tracker": "Kiểu vấn đề",
+    "subject": "Chủ đề",
+    "description": "Mô tả",
+    "status": "Trạng thái",
+    "parent_task": "Tác vụ cha",
+    "priority": "Mức ưu tiên",
+    "start_date": "Bắt đầu",
+    "assignee": "Phân công cho",
+    "due_date": "Hết hạn",
+    "target_version": "Phiên bản",
+    "estimate_time": "Thời gian ước lượng",
+    "done": "Tiến độ",
+    "bug_type": "Bug Type",
+    "severity": "Severity",
+    "qc_activity": "QC Activity",
+    "cause_category": "Cause Category",
+    "is_degrade": "Is Degrade?",
+    "files": "Tập tin",
+    "reopen_counter": "Reopen counter",
+    "watcher": "Theo dõi"
+  },
+  "maximum_size": "(Dung lượng tối đa: 500 MB)",
+  "message": {
+    "maximum_size_file": "Kích thước tệp vượt quá giới hạn 500MB."
+  },
+  "modal_new_version": {
+    "message": {
+      "error": "Tên không được để trống.",
+      "successful": "Tạo thành công."
+    },
+    "title": "Phiên bản mới",
+    "name": "Tên",
+    "description": "Sự mô tả",
+    "status": "Trạng thái",
+    "wiki_page": "Trang Wiki",
+    "start_date": "Ngày bắt đầu",
+    "sharing": "Chia sẻ"
+  },
+  "hours": "Giờ",
+  "button": {
+    "create": "Tạo",
+    "create_continue": "Tạo và tiếp tục",
+    "preview": "Xem trước",
+    "search_user": "Tìm kiếm người theo dõi để thêm"
+  }
+}

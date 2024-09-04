@@ -1,0 +1,49 @@
+{
+  "title": "New issue",
+  "label": {
+    "tracker": "Tracker",
+    "subject": "Subject",
+    "description": "Description",
+    "status": "Status",
+    "parent_task": "Parent task",
+    "priority": "Priority",
+    "start_date": "Start date",
+    "assignee": "Assignee",
+    "due_date": "Due date",
+    "target_version": "Target version",
+    "estimate_time": "Estimate time",
+    "done": "% Done",
+    "bug_type": "Bug Type",
+    "severity": "Severity",
+    "qc_activity": "QC Activity",
+    "cause_category": "Cause Category",
+    "is_degrade": "Is Degrade?",
+    "files": "Files",
+    "reopen_counter": "Reopen counter",
+    "watcher": "Watcher"
+  },
+  "maximum_size": "(Maximum size: 500MB)",
+  "message": {
+    "maximum_size_file": "File size exceeds the 500MB limit."
+  },
+  "modal_new_version": {
+    "message": {
+      "error": "Name can't be blank.",
+      "successful": "Create successful."
+    },
+    "title": "New version",
+    "name": "Name",
+    "description": "Description",
+    "status": "Status",
+    "wiki_page": "Wiki page",
+    "start_date": "Start date",
+    "sharing": "Sharing"
+  },
+  "hours": "Hours",
+  "button": {
+    "create": "Create",
+    "create_continue": "Create and continue",
+    "preview": "Preview",
+    "search_user": "Search for watchers to add"
+  }
+}
